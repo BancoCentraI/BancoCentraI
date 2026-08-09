@@ -1,18 +1,182 @@
-## 
-<div style="display: inline_block"><br>
-  <img align="center" alt="hx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="hx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="hx-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="hx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="hxx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="hx-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "Foi enganado kkkk"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-</div>
+# Olá, eu sou BancocentraI
+
+### Full Stack Developer | Java • TypeScript • JavaScript • Python • C#
+
+<p align="left">
+  <a href="https://github.com/BancocentraI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia e pela criação de soluções eficientes, modernas e escaláveis.
+
+Meu foco está no desenvolvimento de aplicações web, APIs, sistemas backend e integração entre diferentes tecnologias.
+
+Busco constantemente evoluir minhas habilidades, escrever código limpo e aplicar boas práticas de desenvolvimento.
+
+```javascript
+const developer = {
+    username: "BancocentraI",
+    role: "Full Stack Developer",
+
+    languages: [
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "Python",
+        "C#"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript"
+    ],
+
+    backend: [
+        "Java",
+        "Python",
+        "C#"
+    ],
+
+    interests: [
+        "Software Architecture",
+        "APIs",
+        "Clean Code",
+        "Performance",
+        "Scalability"
+    ]
+};
+```
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=BancocentraI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BancocentraI&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=BancocentraI&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## Atualmente
+
+* Desenvolvendo projetos pessoais e profissionais
+* Aprimorando conhecimentos em desenvolvimento Full Stack
+* Estudando arquitetura de software e boas práticas
+* Trabalhando com desenvolvimento de APIs e aplicações web
+* Explorando novas tecnologias e ferramentas
+* Buscando transformar ideias em soluções reais
+
+---
+
+## Projetos
+
+### Projeto 01
+
+Descrição do projeto, seus principais objetivos e os problemas que ele resolve.
+
+**Tecnologias:** `Java` `Spring` `PostgreSQL` `Docker`
+
+### Projeto 02
+
+Descrição do projeto e seus principais recursos.
+
+**Tecnologias:** `TypeScript` `Node.js` `HTML` `CSS`
+
+### Projeto 03
+
+Descrição da aplicação e das funcionalidades desenvolvidas.
+
+**Tecnologias:** `Python` `API` `SQL`
+
+---
+
+## Contato
+
+<p align="center">
+
+<a href="https://github.com/BancocentraI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_USUARIO">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BancocentraI&style=for-the-badge&color=blueviolet" />
+</p>
+
+<p align="center">
+  <b>Building software. Learning continuously. Improving every day.</b>
+</p>
