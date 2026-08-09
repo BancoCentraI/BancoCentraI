@@ -93,23 +93,6 @@ const developer = {
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=BancocentraI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-<img
- height="170"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=BancocentraI&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
 ## GitHub Streak
 
 <p align="center">
@@ -131,28 +114,6 @@ const developer = {
 
 ---
 
-## Projetos
-
-### Projeto 01
-
-Descrição do projeto, seus principais objetivos e os problemas que ele resolve.
-
-**Tecnologias:** `Java` `Spring` `PostgreSQL` `Docker`
-
-### Projeto 02
-
-Descrição do projeto e seus principais recursos.
-
-**Tecnologias:** `TypeScript` `Node.js` `HTML` `CSS`
-
-### Projeto 03
-
-Descrição da aplicação e das funcionalidades desenvolvidas.
-
-**Tecnologias:** `Python` `API` `SQL`
-
----
-
 ## Contato
 
 <p align="center">
@@ -161,11 +122,11 @@ Descrição da aplicação e das funcionalidades desenvolvidas.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
+<a href="https://www.linkedin.com/in/andersnferraz">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:andersnferraz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
